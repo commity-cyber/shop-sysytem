@@ -1,0 +1,31 @@
+html,body,#app{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    min-width: 1366px;
+    box-sizing: border-box;
+}
+.el-breadcrumb{
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+.el-table{
+    margin-top: 15px;
+    font-size: 12px;
+}
+.el-form-item{
+    font-size: 14px;
+    margin-left: 0;
+}
+.el-steps{
+    margin: 15px 0;
+}
+.el-alert{
+    margin-top: 25px;
+}
+.el-tabs__item{
+    font-size: 13px;
+}
+.ql-editor{
+    min-height: 300px;
+}
